@@ -194,4 +194,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Darkest Dungeon · Updated 2026-11-20 · Shared under the MIT License*
+*Darkest Dungeon · Updated 2026-11-21 · Shared under the MIT License*
